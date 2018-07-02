@@ -3,6 +3,8 @@ __license__ = "Apache 2"
 __version__ = "1.0.0"
 __maintainer__ = "Ehsaneddin Asgari"
 __email__ = "ehsan.asgari@gmail.com"
+## Please cite:
+## Asgari, Ehsaneddin, and Hinrich Schütze. "Past, present, future: A computational investigation of the typology of tense in 1000 languages." arXiv preprint arXiv:1704.08914 (2017).
 
 import matplotlib.patches as mpatches
 import matplotlib.pyplot as plt
